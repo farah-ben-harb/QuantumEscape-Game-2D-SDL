@@ -19,4 +19,4 @@ Dans ce jeu, le joueur doit naviguer à travers différents niveaux, éviter des
 ## Installation
 1. Cloner le dépôt :  
    ```bash
-   git clone https://github.com/votre-utilisateur/QuantumEscape-SDL.git
+   git clone https://github.com/votre-utilisateur/QuantumEscape-Game 2D-SDL.git
