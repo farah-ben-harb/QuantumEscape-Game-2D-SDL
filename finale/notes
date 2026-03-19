@@ -1,0 +1,22 @@
+fekra lel attack continu
+else if(I.attack==1)
+{
+tap=1;
+}
+
+else if (I.attack==0)
+{
+p.pos_attack.x=p.rect.x;
+//p.at=NULL;
+}
+if(tap==1)
+{
+while(p.pos_attack.x<=e.position_ennemi.x)
+{
+afficher_attack(p,screen);
+p.pos_attack.x=40;
+}
+tap=0;
+}
+else
+p.at=NULL;
